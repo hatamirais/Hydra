@@ -117,5 +117,3 @@ hydra-challenge  node_modules  package.json  package-lock.json  server.js  views
 * `cat hydra-challenge` will give you the flag for assignment 1.
 
 > My first hydra is pass 30 password as hint suggested, so i sort of failed.
-
-> If you (not me) read this and know what command i should use please tell me. Thank you.
